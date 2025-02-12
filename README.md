@@ -1,9 +1,6 @@
 # Employee Management System
 
-![signup](signup.png)
-![login](login.png)
-![adminDashboard](adminDashboard.png)
-![empDashboard](empDashboard.png)
+
 
 
 
