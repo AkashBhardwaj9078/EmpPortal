@@ -1,4 +1,7 @@
 # Employee Management System
+![](LoginRegisterUI.jpg)
+![](captainUI.jpg)
+![](userUI.jpg)
 
 ## Overview
 Employee Management System is a full-stack application for managing employee profiles, authentication, and task assignments. The backend is built using Node.js, Express, and MongoDB while the frontend uses React with Zustand for state management.
