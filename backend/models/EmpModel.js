@@ -1,5 +1,6 @@
 import mongoose from "mongoose";
 
+
 const taskSchema = new mongoose.Schema({
     active: { type: Boolean, default:true },
     completed: { type: Boolean, default:false},
