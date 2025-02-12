@@ -1,5 +1,5 @@
 # Employee Management System
-![](LoginRegisterUI.jpg)
+![LoginUI](login.png)
 ![](captainUI.jpg)
 ![](userUI.jpg)
 
