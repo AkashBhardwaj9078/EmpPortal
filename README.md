@@ -1,7 +1,7 @@
 # Employee Management System
 
 ![signup](signup.png)
-![login](login (2).png)
+![login](login.png)
 
 
 
